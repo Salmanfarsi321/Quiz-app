@@ -1,2 +1,2 @@
 # Quiz-app
-This app contains multiple choice questions with a timer and user can select difiiculty level,it is built using android studio with the help of sqlite database.
+This is a multiple choic quiz app which has the feature of selecting the topic and difficulty level for the quiz and certain other features.This app is developed on android studio using java programming language with the help of sqlite database.
